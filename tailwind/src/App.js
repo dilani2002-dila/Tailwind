@@ -1,14 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
-import Tailwind from './components/tailwind';
+// import Tailwind from './components/Tailwind';
+import Design from './components/Design';
 
 function App() {
   return (
   
-    <div className='app'>
-    <Tailwind></Tailwind>
     
-    </div>
+    // <Tailwind></Tailwind>
+    <Design></Design>
+    
+    
   );
 }
 
